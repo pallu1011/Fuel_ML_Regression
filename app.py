@@ -37,7 +37,7 @@ def main():
     # front end elements of the web page
     html_temp = """
     <div style ="background-color:violet;padding:13px">
-    <h1 style ="color:black;text-align:center;">Promodini Pragyan AI Walmart Sale Prediction ML App</h1>
+    <h1 style ="color:black;text-align:center;">Promodini AI Walmart Sale Prediction ML App</h1>
     </div>
     """
 
